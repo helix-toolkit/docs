@@ -10,7 +10,7 @@ Welcome to Helix Toolkit's documentation!
 
 Helix Toolkit is a 3D library for .NET
 
-.. image:: example1.png
+.. image:: Example1.png
 
 
 Content
