@@ -62,4 +62,4 @@ Now you can add the helix viewport control like you would add a regular 3D contr
       <HelixToolkit:GridLinesVisual3D Width="8" Length="8" MinorDistance="1" MajorDistance="1" Thickness="0.01"/>
   </HelixToolkit:HelixViewport3D>
 
-You can also see simple examples on the [repository](https://github.com/helix-toolkit/helix-toolkit/tree/master/Source/Examples) of helix-toolkit
+You can also see simple examples on the `repository <https://github.com/helix-toolkit/helix-toolkit/tree/master/Source/Examples>`_ of helix-toolkit.
