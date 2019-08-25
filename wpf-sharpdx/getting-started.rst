@@ -1,9 +1,5 @@
 ===============
 Getting started
 ===============
-
-.. note:: This section is under construction. Please contribute!
-
-- Adding the "HelixToolkit.Wpf.SharpDX" NuGet package
-- Adding a viewport control
-- Adding content
+1. `Creating the 3D Viewport in XAML <https://github.com/helix-toolkit/helix-toolkit/wiki/Viewport3DX-Basics>`_
+2. `Adding contents into Viewport <https://github.com/helix-toolkit/helix-toolkit/wiki/Adding-Contents-into-Viewport3DX>`_
